@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9efdd7db-4f58-46ed-83fc-f3fc2f4f9b2b"
+      }
+    },
+    "owner": "icemanven"
   }
 }
